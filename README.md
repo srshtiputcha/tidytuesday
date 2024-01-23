@@ -1,7 +1,7 @@
 # tidytuesday
 A repository to document my recent [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) attempts. 
 
-I've done a lot of (frankly) pretty basic data visualisation throughout my PhD and for slide decks for work. They've mostly been in Python (with minor tweaks to seaborn or matplotlib functionality) and often failed to communicate a story effectively to non-technical people. 
+I've done a lot of (frankly) pretty basic data visualisation throughout my PhD and for slide decks for work. They've mostly been in Python (with minor tweaks to seaborn or matplotlib functionality) and often fall short of communicating a story effectively to non-technical people. 
 
 My aims for this challenge are:
 * Pick up R again and refamiliarise myself with its tooling (not to say Python won't be used on occasion) 
