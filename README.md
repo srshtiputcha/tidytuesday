@@ -9,7 +9,7 @@ My aims for this challenge are:
 * Commit to a habit of coding regularly outside of work
 
 # 2024 Prompts
-| Date    | Data |
-| -------- | ------- |
-| 2024-01-09 | [Canadian Hockey Player Birth Months](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-01-09/readme.md) | 
-| 2024-01-09 | [Educational attainment of young people in English towns](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-01-23/readme.md) | 
+| Date    | Data | Code | 
+| -------- | ------- | ------- |
+| 2024-01-09 | [Canadian Hockey Player Birth Months](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-01-09/readme.md) | [R script](https://github.com/srshtiputcha/tidytuesday/blob/main/2024-01-09/20240109.R) |
+| 2024-01-09 | [Educational attainment of young people in English towns](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-01-23/readme.md) | [R script](https://github.com/srshtiputcha/tidytuesday/blob/main/2024-01-23/20240123.R) |
