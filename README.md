@@ -12,3 +12,4 @@ My aims for this challenge are:
 | Date    | Data |
 | -------- | ------- |
 | 2024-01-09 | [Canadian Hockey Player Birth Months](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-01-09/readme.md) | 
+| 2024-01-09 | [Educational attainment of young people in English towns](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-01-23/readme.md) | 
